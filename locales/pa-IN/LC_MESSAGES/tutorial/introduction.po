@@ -614,7 +614,7 @@ msgstr "ਪਰੋਗ੍ਰਾਮਿੰਗ ਵੱਲ ਪਹਿਲੇ ਕਦਮ"
 
 #: ../../tutorial/introduction.rst:497
 msgid "Of course, we can use Python for more complicated tasks than adding two and two together.  For instance, we can write an initial sub-sequence of the `Fibonacci series <https://en.wikipedia.org/wiki/Fibonacci_sequence>`_ as follows::"
-msgstr ""
+msgstr "ਬੇਸ਼ੱਕ, ਅਸੀਂ ਪਾਇਥਨ ਨੂੰ ਸਿਰਫ਼ ਦੋ ਅਤੇ ਦੋ ਜੋੜਨ ਨਾਲੋਂ ਕਾਫ਼ੀ ਜ਼ਿਆਦਾ ਜਟਿਲ ਕੰਮਾਂ ਲਈ ਵਰਤ ਸਕਦੇ ਹਾਂ। ਉਦਾਹਰਨ ਵਜੋਂ, ਅਸੀਂ `Fibonacci series <https://en.wikipedia.org/wiki/Fibonacci_sequence>`_ ਦਾ ਇੱਕ ਸ਼ੁਰੂਆਤੀ ਉਪ-ਕ੍ਰਮ (sub-sequence) ਇਸ ਤਰ੍ਹਾਂ ਲਿਖ ਸਕਦੇ ਹਾਂ::"
 
 #: ../../tutorial/introduction.rst:502
 msgid ">>> # Fibonacci series:\n"
@@ -643,11 +643,11 @@ msgstr "ਪਹਿਲੀ ਲਾਈਨ ਵਿੱਚ ਇੱਕ *multiple assignment
 
 #: ../../tutorial/introduction.rst:525
 msgid "The :keyword:`while` loop executes as long as the condition (here: ``a < 10``) remains true.  In Python, like in C, any non-zero integer value is true; zero is false.  The condition may also be a string or list value, in fact any sequence; anything with a non-zero length is true, empty sequences are false.  The test used in the example is a simple comparison.  The standard comparison operators are written the same as in C: ``<`` (less than), ``>`` (greater than), ``==`` (equal to), ``<=`` (less than or equal to), ``>=`` (greater than or equal to) and ``!=`` (not equal to)."
-msgstr ""
+msgstr ":keyword:`while` ਲੂਪ ਉਦੋਂ ਤੱਕ ਚੱਲਦਾ ਰਹਿੰਦਾ ਹੈ ਜਦੋਂ ਤੱਕ ਸ਼ਰਤ (ਇੱਥੇ: ``a < 10``) ਸਹੀ ਰਹਿੰਦੀ ਹੈ। ਪਾਇਥਨ ਵਿੱਚ, C ਦੀ ਤਰ੍ਹਾਂ, ਕੋਈ ਵੀ ਗੈਰ-ਜ਼ੀਰੋ ਪੂਰਨ ਅੰਕ ਮੁੱਲ ਸਹੀ (true) ਮੰਨਿਆ ਜਾਂਦਾ ਹੈ; ਜ਼ੀਰੋ ਗਲਤ (false) ਹੁੰਦਾ ਹੈ। ਸ਼ਰਤ ਇੱਕ string ਜਾਂ list ਮੁੱਲ ਵੀ ਹੋ ਸਕਦੀ ਹੈ; ਅਸਲ ਵਿੱਚ ਕੋਈ ਵੀ sequence। ਜਿਸਦੀ ਲੰਬਾਈ ਗੈਰ-ਜ਼ੀਰੋ ਹੋਵੇ ਉਹ true ਹੁੰਦੀ ਹੈ ਅਤੇ ਖਾਲੀ sequences false ਹੁੰਦੀਆਂ ਹਨ। ਇਸ ਉਦਾਹਰਨ ਵਿੱਚ ਵਰਤੀ ਗਈ ਜਾਂਚ ਇੱਕ ਸਧਾਰਣ ਤੁਲਨਾ ਹੈ। ਮਿਆਰੀ comparison operators C ਵਾਂਗ ਹੀ ਲਿਖੇ ਜਾਂਦੇ ਹਨ: ``<`` (ਘੱਟ), ``>`` (ਵੱਧ), ``==`` (ਬਰਾਬਰ), ``<=`` (ਘੱਟ ਜਾਂ ਬਰਾਬਰ), ``>=`` (ਵੱਧ ਜਾਂ ਬਰਾਬਰ) ਅਤੇ ``!=`` (ਅਸਮਾਨ)।"
 
 #: ../../tutorial/introduction.rst:534
 msgid "The *body* of the loop is *indented*: indentation is Python's way of grouping statements.  At the interactive prompt, you have to type a tab or space(s) for each indented line.  In practice you will prepare more complicated input for Python with a text editor; all decent text editors have an auto-indent facility.  When a compound statement is entered interactively, it must be followed by a blank line to indicate completion (since the parser cannot guess when you have typed the last line).  Note that each line within a basic block must be indented by the same amount."
-msgstr ""
+msgstr "ਲੂਪ ਦਾ *body* *indented* ਹੁੰਦਾ ਹੈ: indentation ਪਾਇਥਨ ਵਿੱਚ statements ਨੂੰ ਸਮੂਹਬੱਧ ਕਰਨ ਦਾ ਤਰੀਕਾ ਹੈ। Interactive prompt ਉੱਤੇ, ਹਰ indented ਲਾਈਨ ਲਈ ਤੁਹਾਨੂੰ ਇੱਕ tab ਜਾਂ space(s) ਲਿਖਣੀਆਂ ਪੈਂਦੀਆਂ ਹਨ। ਅਮਲ ਵਿੱਚ, ਤੁਸੀਂ ਪਾਇਥਨ ਲਈ ਵਧੇਰੇ ਜਟਿਲ input ਕਿਸੇ text editor ਦੀ ਮਦਦ ਨਾਲ ਤਿਆਰ ਕਰੋਗੇ; ਲਗਭਗ ਸਾਰੇ ਵਧੀਆ text editors ਵਿੱਚ auto-indent ਦੀ ਸੁਵਿਧਾ ਹੁੰਦੀ ਹੈ। ਜਦੋਂ ਕੋਈ compound statement interactive ਢੰਗ ਨਾਲ ਦਰਜ ਕੀਤਾ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਇਸਦੇ ਪੂਰਾ ਹੋਣ ਨੂੰ ਦਰਸਾਉਣ ਲਈ ਇਸਦੇ ਬਾਅਦ ਇੱਕ ਖਾਲੀ ਲਾਈਨ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ (ਕਿਉਂਕਿ parser ਇਹ ਅੰਦਾਜ਼ਾ ਨਹੀਂ ਲਗਾ ਸਕਦਾ ਕਿ ਤੁਸੀਂ ਆਖਰੀ ਲਾਈਨ ਕਦੋਂ ਲਿਖੀ ਹੈ)। ਧਿਆਨ ਰੱਖੋ ਕਿ ਇੱਕ basic block ਦੇ ਅੰਦਰ ਹਰ ਲਾਈਨ ਇੱਕੋ ਜਿਹੀ ਮਾਤਰਾ ਨਾਲ indented ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।"
 
 #: ../../tutorial/introduction.rst:543
 msgid "The :func:`print` function writes the value of the argument(s) it is given. It differs from just writing the expression you want to write (as we did earlier in the calculator examples) in the way it handles multiple arguments, floating-point quantities, and strings.  Strings are printed without quotes, and a space is inserted between items, so you can format things nicely, like this::"
