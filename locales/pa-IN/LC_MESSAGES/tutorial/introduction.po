@@ -635,11 +635,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:517
 msgid "This example introduces several new features."
-msgstr ""
+msgstr "ਇਹ ਉਦਾਹਰਨ ਕਈ ਨਵੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਨੂੰ ਪੇਸ਼ ਕਰਦੀ ਹੈ।"
 
 #: ../../tutorial/introduction.rst:519
 msgid "The first line contains a *multiple assignment*: the variables ``a`` and ``b`` simultaneously get the new values 0 and 1.  On the last line this is used again, demonstrating that the expressions on the right-hand side are all evaluated first before any of the assignments take place.  The right-hand side expressions are evaluated  from the left to the right."
-msgstr ""
+msgstr "ਪਹਿਲੀ ਲਾਈਨ ਵਿੱਚ ਇੱਕ *multiple assignment* ਹੈ: variables ``a`` ਅਤੇ ``b`` ਨੂੰ ਇੱਕੋ ਸਮੇਂ ਨਵੇਂ ਮੁੱਲ 0 ਅਤੇ 1 ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ। ਆਖਰੀ ਲਾਈਨ ਵਿੱਚ ਇਸਦੀ ਮੁੜ ਵਰਤੋਂ ਕੀਤੀ ਗਈ ਹੈ, ਜੋ ਦਿਖਾਉਂਦੀ ਹੈ ਕਿ assignment ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਸੱਜੇ ਪਾਸੇ ਵਾਲੀਆਂ ਸਾਰੀਆਂ expressions ਦਾ ਪਹਿਲਾਂ ਮੁਲਾਂਕਣ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਸੱਜੇ ਪਾਸੇ ਵਾਲੀਆਂ expressions ਦਾ ਮੁਲਾਂਕਣ ਖੱਬੇ ਤੋਂ ਸੱਜੇ ਵੱਲ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।"
 
 #: ../../tutorial/introduction.rst:525
 msgid "The :keyword:`while` loop executes as long as the condition (here: ``a < 10``) remains true.  In Python, like in C, any non-zero integer value is true; zero is false.  The condition may also be a string or list value, in fact any sequence; anything with a non-zero length is true, empty sequences are false.  The test used in the example is a simple comparison.  The standard comparison operators are written the same as in C: ``<`` (less than), ``>`` (greater than), ``==`` (equal to), ``<=`` (less than or equal to), ``>=`` (greater than or equal to) and ``!=`` (not equal to)."
@@ -651,7 +651,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:543
 msgid "The :func:`print` function writes the value of the argument(s) it is given. It differs from just writing the expression you want to write (as we did earlier in the calculator examples) in the way it handles multiple arguments, floating-point quantities, and strings.  Strings are printed without quotes, and a space is inserted between items, so you can format things nicely, like this::"
-msgstr ""
+msgstr ":func:`print` ਫੰਕਸ਼ਨ ਉਸਨੂੰ ਦਿੱਤੇ ਗਏ argument(s) ਦਾ ਮੁੱਲ ਲਿਖਦਾ ਹੈ। ਇਹ ਸਿਰਫ਼ ਅਭਿਵਿਅੰਜਨਾ ਲਿਖਣ ਨਾਲੋਂ ਵੱਖਰਾ ਹੈ (ਜਿਵੇਂ ਅਸੀਂ ਪਹਿਲਾਂ ਕੈਲਕੂਲੇਟਰ ਵਾਲੀਆਂ ਉਦਾਹਰਨਾਂ ਵਿੱਚ ਕੀਤਾ ਸੀ), ਕਿਉਂਕਿ ਇਹ ਕਈ arguments, floating-point ਮੁੱਲਾਂ ਅਤੇ strings ਨੂੰ ਵੱਖਰੇ ਢੰਗ ਨਾਲ ਸੰਭਾਲਦਾ ਹੈ। Strings ਬਿਨਾਂ quotes ਦੇ ਛਾਪੀਆਂ ਜਾਂਦੀਆਂ ਹਨ ਅਤੇ items ਦੇ ਵਿਚਕਾਰ ਇੱਕ ਖਾਲੀ ਥਾਂ ਜੋੜੀ ਜਾਂਦੀ ਹੈ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਆਉਟਪੁੱਟ ਨੂੰ ਸੁੰਦਰ ਢੰਗ ਨਾਲ ਫਾਰਮੈਟ ਕਰ ਸਕਦੇ ਹੋ, ਉਦਾਹਰਨ ਲਈ::"
 
 #: ../../tutorial/introduction.rst:550
 msgid ">>> i = 256*256\n"
@@ -661,7 +661,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:554
 msgid "The keyword argument *end* can be used to avoid the newline after the output, or end the output with a different string::"
-msgstr ""
+msgstr "Keyword argument *end* ਦੀ ਵਰਤੋਂ ਆਉਟਪੁੱਟ ਤੋਂ ਬਾਅਦ newline ਤੋਂ ਬਚਣ ਲਈ ਜਾਂ ਆਉਟਪੁੱਟ ਨੂੰ ਕਿਸੇ ਹੋਰ string ਨਾਲ ਸਮਾਪਤ ਕਰਨ ਲਈ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ::"
 
 #: ../../tutorial/introduction.rst:557
 msgid ">>> a, b = 0, 1\n"
