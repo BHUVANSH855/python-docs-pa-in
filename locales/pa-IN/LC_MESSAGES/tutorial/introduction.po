@@ -549,7 +549,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:443
 msgid "All slice operations return a new list containing the requested elements.  This means that the following slice returns a :ref:`shallow copy <shallow_vs_deep_copy>` of the list::"
-msgstr ""
+msgstr "ਸਾਰੀਆਂ slice ਕਾਰਵਾਈਆਂ ਮੰਗੇ ਗਏ ਤੱਤਾਂ ਵਾਲੀ ਇੱਕ ਨਵੀਂ ਸੂਚੀ ਵਾਪਸ ਕਰਦੀਆਂ ਹਨ। ਇਸ ਦਾ ਮਤਲਬ ਹੈ ਕਿ ਹੇਠਾਂ ਦਿੱਤੀ slice ਸੂਚੀ ਦੀ ਇੱਕ :ref:`shallow copy <shallow_vs_deep_copy>` ਵਾਪਸ ਕਰਦੀ ਹੈ::"
 
 #: ../../tutorial/introduction.rst:447
 msgid ">>> correct_rgba = rgba[:]\n"
@@ -562,7 +562,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:454
 msgid "Assignment to slices is also possible, and this can even change the size of the list or clear it entirely::"
-msgstr ""
+msgstr "Slices ਨੂੰ assignment ਕਰਨਾ ਵੀ ਸੰਭਵ ਹੈ, ਅਤੇ ਇਸ ਨਾਲ ਸੂਚੀ ਦਾ ਆਕਾਰ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ ਜਾਂ ਇਸ ਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਖਾਲੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ::"
 
 #: ../../tutorial/introduction.rst:457
 msgid ">>> letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']\n"
@@ -584,7 +584,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:473
 msgid "The built-in function :func:`len` also applies to lists::"
-msgstr ""
+msgstr "ਬਿਲਟ-ਇਨ ਫੰਕਸ਼ਨ :func:`len` ਸੂਚੀਆਂ ਉੱਤੇ ਵੀ ਲਾਗੂ ਹੁੰਦਾ ਹੈ::"
 
 #: ../../tutorial/introduction.rst:475
 msgid ">>> letters = ['a', 'b', 'c', 'd']\n"
@@ -594,7 +594,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:479
 msgid "It is possible to nest lists (create lists containing other lists), for example::"
-msgstr ""
+msgstr "ਸੂਚੀਆਂ ਨੂੰ nested ਬਣਾਉਣਾ (ਅਰਥਾਤ ਹੋਰ ਸੂਚੀਆਂ ਨੂੰ ਸਮੇਟਣ ਵਾਲੀਆਂ ਸੂਚੀਆਂ ਬਣਾਉਣਾ) ਸੰਭਵ ਹੈ, ਉਦਾਹਰਨ ਲਈ::"
 
 #: ../../tutorial/introduction.rst:482
 msgid ">>> a = ['a', 'b', 'c']\n"
