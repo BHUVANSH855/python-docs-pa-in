@@ -657,7 +657,9 @@ msgstr ":func:`print` ਫੰਕਸ਼ਨ ਉਸਨੂੰ ਦਿੱਤੇ ਗਏ 
 msgid ">>> i = 256*256\n"
 ">>> print('The value of i is', i)\n"
 "The value of i is 65536"
-msgstr ""
+msgstr ">>> i = 256*256\n"
+">>> print('The value of i is', i)\n"
+"The value of i is 65536"
 
 #: ../../tutorial/introduction.rst:554
 msgid "The keyword argument *end* can be used to avoid the newline after the output, or end the output with a different string::"
@@ -670,19 +672,24 @@ msgid ">>> a, b = 0, 1\n"
 "...     a, b = b, a+b\n"
 "...\n"
 "0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,"
-msgstr ""
+msgstr ">>> a, b = 0, 1\n"
+">>> while a < 1000:\n"
+"...     print(a, end=',')\n"
+"...     a, b = b, a+b\n"
+"...\n"
+"0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,"
 
 #: ../../tutorial/introduction.rst:566
 msgid "Footnotes"
-msgstr ""
+msgstr "ਫੁੱਟਨੋਟ"
 
 #: ../../tutorial/introduction.rst:567
 msgid "Since ``**`` has higher precedence than ``-``, ``-3**2`` will be interpreted as ``-(3**2)`` and thus result in ``-9``.  To avoid this and get ``9``, you can use ``(-3)**2``."
-msgstr ""
+msgstr "ਕਿਉਂਕਿ ``**`` ਦੀ precedence ``-`` ਨਾਲੋਂ ਵੱਧ ਹੈ, ਇਸ ਲਈ ``-3**2`` ਨੂੰ ``-(3**2)`` ਵਜੋਂ ਸਮਝਿਆ ਜਾਵੇਗਾ ਅਤੇ ਨਤੀਜਾ ``-9`` ਆਵੇਗਾ। ਇਸ ਤੋਂ ਬਚਣ ਅਤੇ ``9`` ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਤੁਸੀਂ ``(-3)**2`` ਵਰਤ ਸਕਦੇ ਹੋ।"
 
 #: ../../tutorial/introduction.rst:571
 msgid "Unlike other languages, special characters such as ``\\n`` have the same meaning with both single (``'...'``) and double (``\"...\"``) quotes. The only difference between the two is that within single quotes you don't need to escape ``\"`` (but you have to escape ``\\'``) and vice versa."
-msgstr ""
+msgstr "ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਤੋਂ ਵੱਖਰਾ, ``\\n`` ਵਰਗੇ special characters ਦਾ ਅਰਥ single (``'...'``) ਅਤੇ double (``\"...\"``) quotes ਦੋਵਾਂ ਵਿੱਚ ਇੱਕੋ ਜਿਹਾ ਹੁੰਦਾ ਹੈ। ਦੋਵਾਂ ਵਿੱਚ ਕੇਵਲ ਇਹ ਫਰਕ ਹੈ ਕਿ single quotes ਦੇ ਅੰਦਰ ਤੁਹਾਨੂੰ ``\"`` ਨੂੰ escape ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੁੰਦੀ (ਪਰ ``\\'`` ਨੂੰ ਕਰਨਾ ਪੈਂਦਾ ਹੈ), ਅਤੇ double quotes ਵਿੱਚ ਇਸਦਾ ਉਲਟ ਹੁੰਦਾ ਹੈ।"
 
 #: ../../tutorial/introduction.rst:20
 msgid "# (hash)"
