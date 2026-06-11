@@ -19,15 +19,15 @@ msgstr "ਪਾਇਥਨ ਨਾਲ ਇੱਕ ਗੈਰ-ਰਸਮੀ ਜਾਣ-ਪ
 
 #: ../../tutorial/introduction.rst:7
 msgid "In the following examples, input and output are distinguished by the presence or absence of prompts (:term:`>>>` and :term:`...`): to repeat the example, you must type everything after the prompt, when the prompt appears; lines that do not begin with a prompt are output from the interpreter. Note that a secondary prompt on a line by itself in an example means you must type a blank line; this is used to end a multi-line command."
-msgstr ""
+msgstr "ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਉਦਾਹਰਨਾਂ ਵਿੱਚ input ਅਤੇ output ਨੂੰ prompts (:term:`>>>` ਅਤੇ :term:`...`) ਦੀ ਮੌਜੂਦਗੀ ਜਾਂ ਗੈਰ-ਮੌਜੂਦਗੀ ਰਾਹੀਂ ਵੱਖ ਕੀਤਾ ਗਿਆ ਹੈ। ਉਦਾਹਰਨ ਨੂੰ ਦੁਹਰਾਉਣ ਲਈ, ਜਦੋਂ prompt ਦਿਖਾਈ ਦੇਵੇ ਤਾਂ ਉਸ ਤੋਂ ਬਾਅਦ ਆਉਣ ਵਾਲੀ ਹਰ ਚੀਜ਼ ਟਾਈਪ ਕਰੋ। ਜਿਹੜੀਆਂ ਲਾਈਨਾਂ prompt ਨਾਲ ਸ਼ੁਰੂ ਨਹੀਂ ਹੁੰਦੀਆਂ ਉਹ interpreter ਦਾ output ਹਨ। ਧਿਆਨ ਦਿਓ ਕਿ ਜੇਕਰ ਕਿਸੇ ਉਦਾਹਰਨ ਵਿੱਚ ਇੱਕ ਲਾਈਨ ਉੱਤੇ ਸਿਰਫ਼ secondary prompt ਹੋਵੇ, ਤਾਂ ਤੁਹਾਨੂੰ ਇੱਕ ਖਾਲੀ ਲਾਈਨ ਟਾਈਪ ਕਰਨੀ ਪਵੇਗੀ; ਇਸਦਾ ਵਰਤੋਂ multi-line command ਨੂੰ ਖਤਮ ਕਰਨ ਲਈ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।"
 
 #: ../../tutorial/introduction.rst:16
 msgid "You can use the \"Copy\" button (it appears in the upper-right corner when hovering over or tapping a code example), which strips prompts and omits output, to copy and paste the input lines into your interpreter."
-msgstr ""
+msgstr "ਤੁਸੀਂ \"Copy\" ਬਟਨ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ (ਇਹ code example ਉੱਤੇ mouse ਲਿਜਾਣ ਜਾਂ ਉਸਨੂੰ ਛੂਹਣ 'ਤੇ ਉੱਪਰ ਸੱਜੇ ਕੋਨੇ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ)। ਇਹ prompts ਅਤੇ output ਨੂੰ ਹਟਾ ਦਿੰਦਾ ਹੈ ਤਾਂ ਜੋ ਤੁਸੀਂ input ਲਾਈਨਾਂ ਨੂੰ ਆਪਣੇ interpreter ਵਿੱਚ copy-paste ਕਰ ਸਕੋ।"
 
 #: ../../tutorial/introduction.rst:22
 msgid "Many of the examples in this manual, even those entered at the interactive prompt, include comments.  Comments in Python start with the hash character, ``#``, and extend to the end of the physical line.  A comment may appear at the start of a line or following whitespace or code, but not within a string literal.  A hash character within a string literal is just a hash character. Since comments are to clarify code and are not interpreted by Python, they may be omitted when typing in examples."
-msgstr ""
+msgstr "ਇਸ ਮੈਨੁਅਲ ਦੀਆਂ ਕਈ ਉਦਾਹਰਨਾਂ, ਇੱਥੋਂ ਤੱਕ ਕਿ interactive prompt ਵਿੱਚ ਦਿੱਤੀਆਂ ਉਦਾਹਰਨਾਂ ਵੀ, comments ਸ਼ਾਮਲ ਕਰਦੀਆਂ ਹਨ। ਪਾਇਥਨ ਵਿੱਚ comment hash ਚਿੰਨ੍ਹ ``#`` ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ ਅਤੇ ਲਾਈਨ ਦੇ ਅੰਤ ਤੱਕ ਚੱਲਦਾ ਹੈ। Comment ਲਾਈਨ ਦੀ ਸ਼ੁਰੂਆਤ ਵਿੱਚ ਜਾਂ whitespace ਜਾਂ code ਤੋਂ ਬਾਅਦ ਆ ਸਕਦਾ ਹੈ, ਪਰ string literal ਦੇ ਅੰਦਰ ਨਹੀਂ। String literal ਦੇ ਅੰਦਰ ਮੌਜੂਦ hash ਚਿੰਨ੍ਹ ਸਿਰਫ਼ ਇੱਕ ਆਮ hash ਚਿੰਨ੍ਹ ਹੁੰਦਾ ਹੈ। ਕਿਉਂਕਿ comments code ਨੂੰ ਸਮਝਾਉਣ ਲਈ ਹੁੰਦੇ ਹਨ ਅਤੇ ਪਾਇਥਨ ਦੁਆਰਾ ਵਿਆਖਿਆ ਨਹੀਂ ਕੀਤੇ ਜਾਂਦੇ, ਇਸ ਲਈ ਉਦਾਹਰਨਾਂ ਟਾਈਪ ਕਰਦੇ ਸਮੇਂ ਇਨ੍ਹਾਂ ਨੂੰ ਛੱਡਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
 
 #: ../../tutorial/introduction.rst:30
 msgid "Some examples::"
@@ -38,7 +38,10 @@ msgid "# this is the first comment\n"
 "spam = 1  # and this is the second comment\n"
 "          # ... and now a third!\n"
 "text = \"# This is not a comment because it's inside quotes.\""
-msgstr ""
+msgstr "# this is the first comment\n"
+"spam = 1  # and this is the second comment\n"
+"          # ... and now a third!\n"
+"text = \"# This is not a comment because it's inside quotes.\""
 
 #: ../../tutorial/introduction.rst:41
 msgid "Using Python as a Calculator"
@@ -69,7 +72,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:67
 msgid "The integer numbers (e.g. ``2``, ``4``, ``20``) have type :class:`int`, the ones with a fractional part (e.g. ``5.0``, ``1.6``) have type :class:`float`.  We will see more about numeric types later in the tutorial."
-msgstr ""
+msgstr "ਪੂਰਨ ਅੰਕ (ਜਿਵੇਂ ``2``, ``4``, ``20``) ਦੀ ਕਿਸਮ :class:`int` ਹੁੰਦੀ ਹੈ, ਜਦਕਿ ਭਿੰਨ ਭਾਗ ਵਾਲੀਆਂ ਸੰਖਿਆਵਾਂ (ਜਿਵੇਂ ``5.0``, ``1.6``) ਦੀ ਕਿਸਮ :class:`float` ਹੁੰਦੀ ਹੈ। ਅਸੀਂ tutorial ਵਿੱਚ ਅੱਗੇ numeric types ਬਾਰੇ ਹੋਰ ਜਾਣਾਂਗੇ।"
 
 #: ../../tutorial/introduction.rst:71
 msgid "Division (``/``) always returns a float.  To do :term:`floor division` and get an integer result you can use the ``//`` operator; to calculate the remainder you can use ``%``::"
