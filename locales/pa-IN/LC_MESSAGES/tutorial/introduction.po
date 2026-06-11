@@ -423,7 +423,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:355
 msgid "The built-in function :func:`len` returns the length of a string::"
-msgstr ""
+msgstr "ਬਿਲਟ-ਇਨ ਫੰਕਸ਼ਨ :func:`len` ਸਟਰਿੰਗ ਦੀ ਲੰਬਾਈ ਵਾਪਸ ਕਰਦਾ ਹੈ::"
 
 #: ../../tutorial/introduction.rst:357
 msgid ">>> s = 'supercalifragilisticexpialidocious'\n"
@@ -437,7 +437,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:365
 msgid "Strings are examples of *sequence types*, and support the common operations supported by such types."
-msgstr ""
+msgstr "ਸਟਰਿੰਗਾਂ *sequence types* ਦੀਆਂ ਉਦਾਹਰਨਾਂ ਹਨ ਅਤੇ ਅਜਿਹੀਆਂ ਕਿਸਮਾਂ ਦੀਆਂ ਆਮ ਕਾਰਵਾਈਆਂ ਦਾ ਸਮਰਥਨ ਕਰਦੀਆਂ ਹਨ।"
 
 #: ../../tutorial/introduction.rst:368
 msgid ":ref:`string-methods`"
@@ -445,7 +445,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:369
 msgid "Strings support a large number of methods for basic transformations and searching."
-msgstr ""
+msgstr "ਸਟਰਿੰਗਾਂ ਮੂਲ ਰੂਪਾਂਤਰਨ ਅਤੇ ਖੋਜ ਲਈ ਬਹੁਤ ਸਾਰੇ ਮੈਥਡਾਂ ਦਾ ਸਮਰਥਨ ਕਰਦੀਆਂ ਹਨ।"
 
 #: ../../tutorial/introduction.rst:372
 msgid ":ref:`f-strings`"
@@ -453,7 +453,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:373
 msgid "String literals that have embedded expressions."
-msgstr ""
+msgstr "ਅਜਿਹੀਆਂ ਸਟਰਿੰਗ ਲਿਟਰਲ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਅਭਿਵਿਅੰਜਨਾਵਾਂ ਸ਼ਾਮਲ ਹੁੰਦੀਆਂ ਹਨ।"
 
 #: ../../tutorial/introduction.rst:375
 msgid ":ref:`formatstrings`"
@@ -461,7 +461,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:376
 msgid "Information about string formatting with :meth:`str.format`."
-msgstr ""
+msgstr ":meth:`str.format` ਨਾਲ ਸਟਰਿੰਗ ਫਾਰਮੈਟਿੰਗ ਬਾਰੇ ਜਾਣਕਾਰੀ।"
 
 #: ../../tutorial/introduction.rst:378
 msgid ":ref:`old-string-formatting`"
@@ -469,7 +469,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:379
 msgid "The old formatting operations invoked when strings are the left operand of the ``%`` operator are described in more detail here."
-msgstr ""
+msgstr "ਜਦੋਂ ਸਟਰਿੰਗਾਂ ``%`` ਓਪਰੇਟਰ ਦੇ ਖੱਬੇ ਓਪਰੇਂਡ ਵਜੋਂ ਵਰਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ ਤਾਂ ਪੁਰਾਣੀਆਂ ਫਾਰਮੈਟਿੰਗ ਕਾਰਵਾਈਆਂ ਇੱਥੇ ਹੋਰ ਵਿਸਥਾਰ ਨਾਲ ਸਮਝਾਈਆਂ ਗਈਆਂ ਹਨ।"
 
 #: ../../tutorial/introduction.rst:386
 msgid "Lists"
