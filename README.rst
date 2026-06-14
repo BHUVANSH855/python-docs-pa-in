@@ -19,6 +19,7 @@ Tutorial Section
 * appetite.po — Complete
 * controlflow.po — Complete
 * datastructures.po — Complete
+* inputoutput.po — Complete
 * modules.po — Complete
 * errors.po — Complete
 
