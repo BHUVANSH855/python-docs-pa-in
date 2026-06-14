@@ -15,7 +15,12 @@ to Punjabi-speaking developers, students, and educators.
 Tutorial Section
 
 * introduction.po — Complete
+* interpreter.po — Complete
+* appetite.po — Complete
 * controlflow.po — Complete
+* datastructures.po — Complete
+* modules.po — Complete
+* errors.po — Complete
 
 Infrastructure
 
