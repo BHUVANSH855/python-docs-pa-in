@@ -16,16 +16,16 @@ Tutorial Section
 
 | File | Status | Messages |
 |------|--------|----------|
-| introduction.po | Complete | 99 |
-| interpreter.po | Complete | 36 |
+| introduction.po | Complete | 120 |
+| interpreter.po | Complete | 33 |
 | appetite.po | Complete | 17 |
-| controlflow.po | Complete | 194 |
+| controlflow.po | Complete | 226 |
 | datastructures.po | Complete | 139 |
 | inputoutput.po | Complete | 112 |
 | modules.po | Complete | 116 |
 | errors.po | Complete | 96 |
 
-Total translated tutorial messages: 809
+Total translated tutorial messages: 859
 
 Infrastructure
 
@@ -54,6 +54,11 @@ python-docs-pa-in/
 ├── GLOSSARY.md
 ├── CONTRIBUTING.md
 ├── .github/workflows/
+├── library/
+├── reference/
+├── tutorial/
+├── using/
+├── whatsnew/
 └── locales/pa-IN/LC_MESSAGES/
 ```
 
