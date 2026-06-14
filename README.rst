@@ -14,14 +14,18 @@ to Punjabi-speaking developers, students, and educators.
 
 Tutorial Section
 
-* introduction.po — Complete
-* interpreter.po — Complete
-* appetite.po — Complete
-* controlflow.po — Complete
-* datastructures.po — Complete
-* inputoutput.po — Complete
-* modules.po — Complete
-* errors.po — Complete
+| File | Status | Messages |
+|------|--------|----------|
+| introduction.po | Complete | 99 |
+| interpreter.po | Complete | 36 |
+| appetite.po | Complete | 17 |
+| controlflow.po | Complete | 194 |
+| datastructures.po | Complete | 139 |
+| inputoutput.po | Complete | 112 |
+| modules.po | Complete | 116 |
+| errors.po | Complete | 96 |
+
+Total translated tutorial messages: 809
 
 Infrastructure
 
