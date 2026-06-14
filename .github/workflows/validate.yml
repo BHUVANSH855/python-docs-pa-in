@@ -19,4 +19,4 @@ jobs:
 
       - name: Validate PO files
         run: |
-          find locales -name "*.po" -exec msgfmt --check {} \;
+          find . -name "*.po" -exec msgfmt --check {} \;
