@@ -1,4 +1,4 @@
-# Punjabi (pa-IN) Python Docs Glossary
+# Punjabi (pa) Python Docs Glossary
 
 This glossary defines preferred Punjabi translations for Python documentation terminology used throughout the Punjabi (India) translation project.
 

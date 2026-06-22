@@ -1,4 +1,4 @@
-# Contributing to Python Docs Punjabi (pa-IN)
+# Contributing to Python Docs Punjabi (pa)
 
 Thank you for contributing to the Punjabi (India) translation of Python documentation.
 
@@ -89,7 +89,7 @@ Generate a new `.po` file from the latest CPython gettext template:
 
 ```bash
 msginit \
-  --locale=pa_IN \
+  --locale=pa \
   --input=PATH_TO_TEMPLATE.pot \
   --output-file=PATH_TO_OUTPUT.po
 ```
@@ -98,7 +98,7 @@ Example:
 
 ```bash
 msginit \
-  --locale=pa_IN \
+  --locale=pa \
   --input=library/functions.pot \
   --output-file=library/functions.po
 ```

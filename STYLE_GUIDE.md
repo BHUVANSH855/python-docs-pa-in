@@ -1,4 +1,4 @@
-# Punjabi (pa-IN) Python Docs Style Guide
+# Punjabi (pa) Python Docs Style Guide
 
 This guide defines translation conventions for the Punjabi (India) translation of the Python documentation.
 

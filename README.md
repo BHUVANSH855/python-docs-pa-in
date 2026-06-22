@@ -1,4 +1,4 @@
-# Translation of the Python Documentation — pa-IN
+# Translation of the Python Documentation — pa
 
 Punjabi (India) translation of the Python documentation.
 
@@ -135,7 +135,7 @@ Validation summary:
 Current priorities:
 
 1. Finalize Transifex synchronization workflow
-2. Confirm language identifier (`pa` vs `pa-IN`)
+2. Standardize repository metadata to use `pa`
 3. Coordinate with Python Documentation Translation Team
 4. Open Python Devguide translation listing PR
 5. Expand translation coverage into:

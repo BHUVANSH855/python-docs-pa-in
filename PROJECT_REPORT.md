@@ -1,4 +1,4 @@
-# 🐍 Python Docs Punjabi (pa-IN) — Project Report
+# 🐍 Python Docs Punjabi (pa) — Project Report
 
 **Project:** python-docs-pa-in
 **Coordinator:** Bhuvansh Kataria (@BHUVANSH855)
@@ -267,7 +267,6 @@ Messages Translated:
 ## Coordination
 
 * Finalize Transifex synchronization workflow
-* Confirm language identifier (`pa` vs `pa-IN`)
 * Coordinate with Python Documentation Translation Team
 * Prepare Python Devguide translation listing PR
 
