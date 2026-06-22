@@ -307,6 +307,9 @@ The project uses the IETF language tag:
 
 ```text
 pa
+```
+
+---
 
 # Consistency Rules
 
