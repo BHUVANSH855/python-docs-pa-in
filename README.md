@@ -157,7 +157,7 @@ Project goals are aligned with the Python Documentation Translation initiative a
 ## Repository Structure
 
 ```text
-python-docs-pa-in/
+python-docs-pa/
 ├── .gitignore
 ├── bugs.po
 ├── CONTRIBUTING.md

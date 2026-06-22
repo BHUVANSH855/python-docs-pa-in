@@ -32,7 +32,7 @@ Current priorities:
 ## Repository Structure
 
 ```text
-python-docs-pa-in/
+python-docs-pa/
 ├── .gitignore
 ├── bugs.po
 ├── CONTRIBUTING.md

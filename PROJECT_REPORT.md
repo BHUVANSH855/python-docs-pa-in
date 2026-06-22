@@ -1,8 +1,8 @@
 # 🐍 Python Docs Punjabi (pa) — Project Report
 
-**Project:** python-docs-pa-in
+**Project:** python-docs-pa
 **Coordinator:** Bhuvansh Kataria (@BHUVANSH855)
-**Repository:** https://github.com/BHUVANSH855/python-docs-pa-in
+**Repository:** https://github.com/BHUVANSH855/python-docs-pa
 **Report Date:** June 17, 2026
 **Current Status:** All Repository Translation Files Complete and Validated
 
