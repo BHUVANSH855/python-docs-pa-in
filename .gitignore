@@ -1,4 +1,5 @@
 # Compiled gettext files
 *.mo
 
+# Transifex local config
 .tx/
